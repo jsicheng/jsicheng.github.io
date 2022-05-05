@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/mako.jpg"
   bio    : "Hello! My name is Sicheng Jia, and I am a second year Computer Science MS student at UCLA."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jsicheng@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jsicheng.github.io"
@@ -72,6 +75,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jsicheng@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jsicheng.github.io"
