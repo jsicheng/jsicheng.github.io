@@ -57,7 +57,9 @@ plugins:
 author:
   name   : "Sicheng Jia"
   avatar : "/assets/images/mako.jpg"
-  bio    : "Hello! My name is Sicheng Jia, and I am a second year Computer Science MS student at UCLA."
+  bio    : "Hello! My name is Sicheng Jia.
+  I am a second year Computer Science MS student at UCLA."
+  
   links:
     - label: "jsicheng@hotmail.com"
       icon: "fas fa-fw fa-envelope-square"
@@ -94,17 +96,6 @@ footer:
       url: "https://instagram.com/sichen_gg"
 
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
   # _pages
   - scope:
       path: "_pages"
