@@ -16,7 +16,9 @@
 title: Sicheng Jia
 email: jsicheng@hotmail.com
 description: Website for Sicheng Jia
-avatar : "/assets/images/mako.jpg"
+icon: "/assets/images/mako.jpg"
+masthead_title: "Test Test"
+
 
 minimal_mistakes_skin: default
 search: true
