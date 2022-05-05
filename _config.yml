@@ -17,8 +17,6 @@ title: Sicheng Jia
 email: jsicheng@hotmail.com
 description: Website for Sicheng Jia
 
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -51,6 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -103,10 +102,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
