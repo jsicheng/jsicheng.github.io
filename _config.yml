@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Sicheng Jia"
   avatar : "/assets/images/mako.jpg"
-  bio    : "Hello! My name is Sicheng Jia.\n
+  bio    : "Hello! My name is Sicheng Jia.\n\n
   I am a second year Computer Science MS student at UCLA."
   
   links:
