@@ -67,7 +67,7 @@ author:
   
   links:
     - label: "jsicheng@hotmail.com"
-      icon: "fas fa-thin fa-envelope-square"
+      icon: "fas fa-fw fa-at"
       url: "mailto:jsicheng@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -85,7 +85,7 @@ author:
 footer:
   links:
     - label: "jsicheng@hotmail.com"
-      icon: "fas fa-thin fa-envelope-square"
+      icon: "fas fa-fw fa-at"
       url: "mailto:jsicheng@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
