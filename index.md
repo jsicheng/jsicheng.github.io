@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: home
+layout: single
 author_profile: true
 ---
 
