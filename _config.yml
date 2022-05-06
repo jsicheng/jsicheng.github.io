@@ -94,11 +94,17 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jsicheng"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jsicheng/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram-square"
+      icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sichen_gg"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin-in"
+    #   url: "https://www.linkedin.com/in/jsicheng/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram-square"
+    #   url: "https://instagram.com/sichen_gg"
 atom_feed:
   hide: true
 
