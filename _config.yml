@@ -98,6 +98,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/sichen_gg"
+atom_feed:
+  hide: true
 
 defaults:
   # _pages
