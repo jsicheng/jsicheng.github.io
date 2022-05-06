@@ -93,7 +93,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jsicheng"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jsicheng/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
