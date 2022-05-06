@@ -21,7 +21,7 @@ repository: "jsicheng/jsicheng.github.io"
 masthead_title: "Home"
 
 
-minimal_mistakes_skin: air #default
+minimal_mistakes_skin: "air" #default
 search: true
 
 # Build settings
