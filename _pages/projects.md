@@ -14,3 +14,5 @@ Below you can find some of the projects I've worked on:
 [Socipolicy: Predicting Covid-19 Policy Compliance using Twitter Data](https://github.com/jsicheng/socipolicy)
 
 [Wander.io: Automatic Itinerary Recommendation Website](https://github.com/jsicheng/Wander.io)
+
+[Seed-based Weakly Supervised Named Entity Recognition](https://github.com/jsicheng/CS245-Project-1)
