@@ -3,8 +3,8 @@ permalink: /lion_dance/
 title: "Lion Dance"
 ---
 
-Check out the UCLA ACA Lion Dance team!
+Come check out the UCLA ACA Lion Dance team!
 
-https://www.instagram.com/acaliondance/
+[Instagram](https://www.instagram.com/acaliondance/)
 
-https://www.youtube.com/user/acaliondance
+[YouTube](https://www.youtube.com/user/acaliondance)
