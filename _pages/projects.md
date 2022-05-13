@@ -5,7 +5,7 @@ title: "Projects"
 
 Below you can find some of the projects I've worked on:
 
-[Ancestry Inference in Low Dimensional Space Using Autoencoders](https://github.com/jsicheng/autoencoder-ancestry-inference)
+[Ancestry Inference in Low Dimensional Space Using Autoencoders](https://github.com/jsicheng/autoencoder-ancestry-inference) [Paper](https://github.com/jsicheng/autoencoder-ancestry-inference/blob/main/Ancestry%20Inference%20in%20Low%20Dimensional%20Space%20Using%20Autoencoders.pdf)
 
 [GATMC: Graph Attention Network Matrix Completion](https://github.com/jsicheng/gatmc)
 
