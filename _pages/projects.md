@@ -12,9 +12,9 @@ Below you can find some of the projects I've worked on:
 
 * Evaluating Machine Learning Approaches for Super-Resolution MRI \[ [Code](https://github.com/jsicheng/mri-superresolution) \] \[ [Paper](https://github.com/jsicheng/mri-superresolution/blob/fix-bicubic/Evaluating%20Machine%20Learning%20Approaches%20for%20Super-Resolution%20MRI.pdf) \]
 
-* Socipolicy: Predicting Covid-19 Policy Compliance using Twitter Data \[ [Code](https://github.com/jsicheng/socipolicy)
+* Socipolicy: Predicting Covid-19 Policy Compliance using Twitter Data \[ [Code](https://github.com/jsicheng/socipolicy) \]
 
-* Wander.io: Automatic Itinerary Recommendation Website \[ [Code](https://github.com/jsicheng/Wander.io)
+* Wander.io: Automatic Itinerary Recommendation Website \[ [Code](https://github.com/jsicheng/Wander.io) \]
 
 * Seed-based Weakly Supervised Named Entity Recognition \[ [Code](https://github.com/jsicheng/CS245-Project-1) \] \[ [Paper](https://docs.google.com/document/d/1pr46og6OUH0CtA1EeRPMzR8dtxmElRWcpTtwErppqCU/edit?usp=sharing) \]
 
