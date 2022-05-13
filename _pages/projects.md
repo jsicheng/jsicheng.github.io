@@ -1,6 +1,7 @@
 ---
 permalink: /projects/
 title: "Projects"
+classes: wide
 ---
 
 Below you can find some of the projects I've worked on:
