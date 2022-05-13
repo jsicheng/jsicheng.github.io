@@ -17,3 +17,4 @@ Below you can find some of the projects I've worked on:
 * [Wander.io: Automatic Itinerary Recommendation Website](https://github.com/jsicheng/Wander.io)
 
 * [Seed-based Weakly Supervised Named Entity Recognition](https://github.com/jsicheng/CS245-Project-1) \[ [Paper](https://docs.google.com/document/d/1pr46og6OUH0CtA1EeRPMzR8dtxmElRWcpTtwErppqCU/edit?usp=sharing) \]
+
