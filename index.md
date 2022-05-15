@@ -13,6 +13,6 @@ View my:1
 
 <div align="center">
 
-[Projects]({% link ./_pages/projects.md %}) | [Teaching]({% link ./_pages/teaching.md %})
+[Projects](./_pages/projects.md) | [Teaching](./_pages/teaching.md)
 
 </div>
