@@ -11,8 +11,8 @@ I enjoy cooking, working out, and playing volleyball. I am also part of the UCLA
 
 View my:
 
-<!-- <div align="center"> -->
+<div align="center">
 
-[Projects](./_pages/projects.md) | [Teaching](./_pages/teaching.md)
+[Projects](./_pages/projects.md) \| [Teaching](./_pages/teaching.md)
 
-<!-- </div> -->
+</div>
