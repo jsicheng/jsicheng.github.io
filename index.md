@@ -13,6 +13,6 @@ View my:
 
 <div align="center">
 
-[Projects](https://jsicheng.github.io/projects/) | [Teaching](https://jsicheng.github.io/teaching/)
+[Projects]: {% _pages/projects.md %} | [Teaching]: {% _pages/teaching.md %}
 
 </div>
