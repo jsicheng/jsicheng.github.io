@@ -12,4 +12,4 @@ I enjoy cooking, working out, and playing volleyball. I am also part of the UCLA
 View my:\
 \[ [Projects](./_pages/projects.md) \] \[ [Teaching](./_pages/teaching.md) \]
 
-View my resume [here](./assets/resume.pdf).
+View my resume [here](./assets/resume.pdf){:target="_blank"}.
