@@ -11,5 +11,3 @@ I enjoy cooking, working out, and playing volleyball. I was also part of the UCL
 
 View my:\
 \[ [Projects](./_pages/projects.md) \] \[ [Teaching](./_pages/teaching.md) \]
-
-View my resume [here](./assets/sicheng_jia_resume.pdf){:target="_blank"}.
