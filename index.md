@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Hello! My name is Sicheng Jia and I am currently a second year MS student in Computer Science at UCLA.
+Hello! My name is Sicheng Jia and I am currently a Software Engineer at Amazon AWS.
 
 I enjoy cooking, working out, and playing volleyball. I am also part of the UCLA ACA Lion Dance team!
 
